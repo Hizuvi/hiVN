@@ -9,10 +9,4 @@ I just want you to be able to use this with as little hassle as possible, for al
 So whatever you use this for, no matter what it is, I want you to credit where credit is due. If you use as a basis for the whole game, then I would appreciate if you credit to either me in the game/program ar at least show that it was made using the "HIZUVI novel maker".
 If you use this for a tiny or small part of the game, then do what you think is approperiate. I put my trust in you for this, because I want to put as much power as possible into your hands.
 
-# Getting started
-
-# Writing custom readers
-
-# Writing custom nodes
-
-# Writing custom node editors
+If you want to get started, have a look at the Wiki
