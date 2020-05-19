@@ -13,6 +13,8 @@ If you use this for a tiny or small part of the game, then do what you think is 
 If you don't know what this is, then here is a simple explaination:
 The HIZUVI visual novel creator is a system made with xNode which you can use for dialogue systems, primarily in visual novels.
 
+![]( https://user-images.githubusercontent.com/64695616/82303542-5dcef600-99bb-11ea-8a97-7a40c319d2a9.png)
+Thats my explaination. Hope it's good enough.
 
 Check out the wiki on how how to get started, and how to write custom nodes, and what more this can do.
 https://github.com/StutteA/hiVN/wiki
