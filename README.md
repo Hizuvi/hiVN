@@ -15,3 +15,4 @@ The HIZUVI visual novel creator is a system made with xNode which you can use fo
 
 
 Check out the wiki on how how to get started, and how to write custom nodes, and what more this can do.
+https://github.com/StutteA/hiVN/wiki
