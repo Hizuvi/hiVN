@@ -1,6 +1,8 @@
 [Instagram](https://www.instagram.com/hizuvia/)
  / [Twitter](https://twitter.com/hizuvi)
 
+[Trello page(to do list)](https://trello.com/b/EnFfVJ1G/hivn)
+
 # hiVN
 Repo for the HIZUVI visual novel creator, a tool for Unity to make visual novels
 
