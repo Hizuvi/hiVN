@@ -500,7 +500,7 @@ MonoBehaviour:
   characterName: {fileID: 1905395028}
   background: {fileID: 281532129}
   images: []
-  imageOffset: {x: 0, y: 0}
+  imageOffset: {x: 0, y: -50}
   imageScale: 1
   buttons:
   - {fileID: 0}

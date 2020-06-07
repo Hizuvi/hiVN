@@ -154,7 +154,8 @@ namespace hiVN
                     images.Add(newGameObj.GetComponent<Image>());
                 } //If the image does not exist, create one
 
-                int imageIndex = GetImageIndex(imageReturn.character.characterName);
+                int imageIndex = GetImageIndex(imageReturn.character.name);
+                Debug.Log(imageIndex);
                 RectTransform canvTransform = images[imageIndex].GetComponentInParent<Canvas>().GetComponent<RectTransform>();
 
                 images[imageIndex].sprite = imageReturn.sprite;
