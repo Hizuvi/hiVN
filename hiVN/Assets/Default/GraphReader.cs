@@ -163,7 +163,6 @@ namespace hiVN
                 int pixelRes = 250;
                 //edit boxsize above
                 int yPos = Mathf.RoundToInt(canvTransform.rect.height * canvTransform.localScale.y / 2 + dialogBoxSize * canvTransform.localScale.y) - 40;
-                int indent = 100; //How far into the screen the images are from the side
 
                 //change the size depending on the sprite
                 Vector2 scaler = new Vector2(800 / images[imageIndex].sprite.rect.width, 800 / images[imageIndex].sprite.rect.height);
