@@ -60,5 +60,5 @@ crashlytics-build.properties
 
 
 #remove other files
-hiVN.Packages/
-hiVN.ProjectSettings/
+Packages/
+ProjectSettings/
